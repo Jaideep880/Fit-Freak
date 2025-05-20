@@ -3,6 +3,8 @@ Fit Freak is a powerful and dynamic full-stack fitness e-commerce application de
 
 This project showcases a complete e-commerce system with frontend and backend integration, secure authentication, and a modular, scalable codebase. It is a great example of how modern web technologies can be used to build a responsive, interactive, and data-driven shopping experience.
 
+
+
 🔥 Key Features
 🛒 Complete E-Commerce Flow
 Users can browse products, add items to their cart, proceed to checkout, and place orders seamlessly.
@@ -31,6 +33,8 @@ Uses .env files for different deployment environments (development, staging, pro
 📚 Modular Code Architecture
 Organized folder structure with reusable components, middleware, route handlers, and database models.
 
+
+
 🛠️ Technologies Used
 Frontend: React.js, JSX, CSS Modules, React Router
 
@@ -44,9 +48,9 @@ API Testing: Postman
 
 Dev Tools: Nodemon, Concurrently
 
-Deployment Ready: Render, Vercel, Netlify (customizable)
-
 Payment Gateway: PayPal REST API (configurable via .env)
+
+
 
 🎯 Ideal For
 Full-stack portfolio projects
